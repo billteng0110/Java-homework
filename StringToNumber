@@ -3,7 +3,7 @@ import java.util.*;
 public class StringToNumber {
 	public static void main(String [] argv) {
 	Scanner scn=new Scanner(System.in);	
-	String[] faces = {"Ace", "Deuce", "Three", "Four", "Five", "Six",       "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"}; 
+	String[] faces = {"Ace", "Deuce", "Three", "Four", "Five", "Six","Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"}; 
 	System.out.println("input string:");
     String str=scn.nextLine();
     
