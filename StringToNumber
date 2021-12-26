@@ -5,7 +5,7 @@ public class StringToNumber {
 	Scanner scn=new Scanner(System.in);	
 	String[] faces = {"Ace", "Deuce", "Three", "Four", "Five", "Six","Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"}; 
 	System.out.println("input string:");
-    String str=scn.nextLine();
+        String str=scn.nextLine();
     
     //要輸入=某個字串用if(輸入.equals("字串")){}
     if(str.equals("Ace")) {
